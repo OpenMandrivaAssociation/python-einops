@@ -1,6 +1,6 @@
 Name:		python-einops
 Version:	0.8.2
-Release:	1
+Release:	2
 Summary:	Readable and concise tensor operations
 License:	MIT
 Group:		Development/Python
